@@ -30,7 +30,7 @@ This GitHub repository serves as a comprehensive portfolio showcasing some of th
   
 ## Note
 
-- Due to privacy concerns, this is a simulated dataset created to represent real sales data and trends. It has been further anonymized to preserve the privacy of the artists involved.
+- Due to privacy concerns, this is a simulated dataset created to mimic real sales data and trends. It has been further anonymized to preserve the privacy of the artists involved.
 
 - To view Excel files, please download them from the repository.
 
