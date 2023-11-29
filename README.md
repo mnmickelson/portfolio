@@ -7,7 +7,7 @@ This GitHub repository serves as a work portfolio showcasing some of the skills 
 ## Files
 
 ### Presentations
-- **Presentation_ArtistDemographics_Analysis.pdf**: A presentation exploring artist demographics, cleaning and merging data, and analyzing statistically significant differences in sales based on demographics.
+- **Presentation_ArtistDemographics_Analysis.pdf**: A presentation exploring represented artists, cleaning and merging data, and analyzing statistically significant differences in sales based on artists' demographics.
 
 - **Presentation_SalesOptimization.pdf**: A presentation on sales optimization, including analyses of seasonalization, market trends, and strategies for optimizing inventory and pricing.
 
@@ -16,7 +16,7 @@ This GitHub repository serves as a work portfolio showcasing some of the skills 
   
 - **WALRUS_EDA_Visualization.ipynb**: Jupyter notebook providing the analysis and visualizations for the sales optimization presentation.
 
-- **WALRUS_InventoryOptimization.ipynb**: Jupyter notebook for the project to find optimal stock values for each market strength, including simulations.
+- **WALRUS_InventoryOptimization.ipynb**: Jupyter notebook of the project to find optimal stock values for each market strength, including market simulations.
 
 ### Excel Files
 
