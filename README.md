@@ -14,9 +14,9 @@ This GitHub repository serves as a work portfolio showcasing some of the skills 
 ### Jupyter Notebooks
 - **WALRUS_SalesAnalysis.ipynb**: Jupyter notebook for data cleaning, exploratory data analysis, and visualizations presented in the artist demographics analysis.
   
-- **WALRUS_EDA_Visualization.ipynb**: Jupyter notebook providing the analysis and visualizations for the sales optimization presentation.
+- **WALRUS_HypothesisTesting.ipynb**: Jupyter notebook providing the analysis, visualizations, and hypothesis testing for the sales optimization presentation.
 
-- **WALRUS_InventoryOptimization.ipynb**: Jupyter notebook of the project to find optimal stock values for each market strength, including market simulations.
+- **WALRUS_DemandPrediction.ipynb**: Jupyter notebook of the project to predict demand and calculate optimal monthly inventory levels, including market simulations.
 
 ### Excel Files
 
