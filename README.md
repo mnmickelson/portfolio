@@ -9,7 +9,7 @@ This GitHub repository serves as a work portfolio showcasing skills and strategi
 ### Presentations
 - **Presentation_ArtistDemographics.pdf**: A presentation exploring represented artists, cleaning and merging data, and analyzing statistically significant differences in sales based on artists' demographics.
 
-- **Presentation_SalesOptimization.pdf**: A presentation on sales optimization, including analyses of seasonalization, market trends, and strategies for optimizing inventory and pricing.
+- **Presentation_InventoryOptimization.pdf**: A presentation on sales optimization, including analyses of seasonalization, market trends, and strategies for optimizing inventory and pricing.
 
 ### Jupyter Notebooks
 - **WALRUS_SalesAnalysis.ipynb**: Jupyter notebook for data cleaning, exploratory data analysis, and visualizations presented in the artist demographics analysis.
