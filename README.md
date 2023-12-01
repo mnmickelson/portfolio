@@ -7,7 +7,7 @@ This GitHub repository serves as a work portfolio showcasing some of the skills 
 ## Files
 
 ### Presentations
-- **Presentation_ArtistDemographics_Analysis.pdf**: A presentation exploring represented artists, cleaning and merging data, and analyzing statistically significant differences in sales based on artists' demographics.
+- **Presentation_ArtistDemographics.pdf**: A presentation exploring represented artists, cleaning and merging data, and analyzing statistically significant differences in sales based on artists' demographics.
 
 - **Presentation_SalesOptimization.pdf**: A presentation on sales optimization, including analyses of seasonalization, market trends, and strategies for optimizing inventory and pricing.
 
@@ -20,9 +20,9 @@ This GitHub repository serves as a work portfolio showcasing some of the skills 
 
 ### Excel Files
 
-- **WALRUS_PriceRangeOptimizer.xlsx**: Excel file with models to calculate optimal inventory levels for each price range during different market strengths.
+- **WALRUS_PriceRangeOptimizer.xlsx**: Excel file with models to calculate optimal monthly inventory levels for each price range during different market strengths.
   
-- **WALRUS_ArtistOptimizer.xlsx**: Excel file with models to calculate optimal inventory levels for highlighted artists during different market strengths.
+- **WALRUS_ArtistOptimizer.xlsx**: Excel file with models to calculate optimal monthly inventory levels for highlighted artists during different market strengths.
 
 ### Dashboard
 
