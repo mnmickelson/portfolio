@@ -2,7 +2,7 @@
 
 ## Overview
 
-This GitHub repository serves as a work portfolio showcasing some of the skills and strategies employed during the operation of WALRUS, an art gallery. The datasets utilized in the files reflect the sales data for the years 2021, 2022, and 2023, along with artist demographics.
+This GitHub repository serves as a work portfolio showcasing some of the skills and strategies I employed during the operation of WALRUS, an art gallery. The datasets utilized in the files reflect the sales data for the years 2021, 2022, and 2023, along with artist demographics.
 
 ## Files
 
