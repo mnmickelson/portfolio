@@ -23,8 +23,6 @@ This GitHub repository serves as a work portfolio showcasing some of the skills 
 - **WALRUS_PriceRangeOptimizer.xlsx**: Excel file with models to calculate optimal inventory levels for each price range during different market strengths.
   
 - **WALRUS_ArtistOptimizer.xlsx**: Excel file with models to calculate optimal inventory levels for highlighted artists during different market strengths.
-  
-- **WALRUS_DeSeasonalization.xlsx**: Excel file for creating a deseasonalized version of the sales data.
 
 ### Dashboard
 
