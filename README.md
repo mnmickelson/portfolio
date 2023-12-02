@@ -11,6 +11,9 @@ This GitHub repository serves as a work portfolio showcasing skills and strategi
 
 - **Presentation_InventoryOptimization.pdf**: A presentation on sales optimization, including analyses of seasonalization, market trends, and strategies for optimizing inventory and pricing.
 
+### Project
+- **Project_BlackHistoryMonth.pdf**: A report of findings from utilizing the discoveries in the artist demographics analysis and inventory optimization projects to calculate ideal inventory levels for a Black History Month promotion.
+
 ### Jupyter Notebooks
 - **WALRUS_SalesAnalysis.ipynb**: Jupyter notebook for data cleaning, exploratory data analysis, and visualizations presented in the artist demographics analysis.
   
